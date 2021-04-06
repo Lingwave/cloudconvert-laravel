@@ -29,7 +29,7 @@ Next you need to add the service provider to `config/app.php`
 ```php
 'providers' => array(
     ...
-    Laravel\CloudConvertLaravel\CloudConvertLaravelServiceProvider::class
+    Lingwave\CloudConvertLaravel\CloudConvertLaravelServiceProvider::class
 )
 ```
 One more step. 

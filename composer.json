@@ -1,7 +1,7 @@
 {
     "name": "lingwave/cloudconvert-laravel",
     "description": "A Laravel wrapper for the CloudConvert API",
-    "keywords": ["cloudconvert", "laravel", "laravel4", "laravel5", "screenshot", "conversion", "office", "documents"],
+    "keywords": ["cloudconvert", "laravel", "laravel8", "screenshot", "conversion", "office", "documents"],
     "license": "MIT",
     "authors": [
         {
@@ -14,10 +14,10 @@
         }
     ],
     "require": {
-        "php": ">=7.2.0",
-        "illuminate/support": "^7.0",
-        "illuminate/filesystem": "^7.0",
-        "guzzlehttp/guzzle": "~6.0",
+        "php": ">=7.3.0",
+        "illuminate/support": "^8.0",
+        "illuminate/filesystem": "^8.0",
+        "guzzlehttp/guzzle": "~7.0",
         "patchwork/utf8": "1.*"
     },
     "require-dev": {
