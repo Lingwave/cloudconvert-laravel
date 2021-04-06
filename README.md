@@ -12,6 +12,14 @@ Install this package through [Composer](https://getcomposer.org/).
 
 Add this to your `composer.json` dependencies:
 
+### Using Laravel 8.0+
+
+```js
+"require": {
+   "lingwave/cloudconvert-laravel": "5.*"
+}
+```
+
 ### Using Laravel 7.0+
 
 ```js
